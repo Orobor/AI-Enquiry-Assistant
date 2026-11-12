@@ -1,0 +1,221 @@
+# ==========================================================
+# Python
+# ==========================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Packaging
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ========================================================
+
+# ==========================================================
+# Virtual Environments
+# ==========================================================
+venv/
+env/
+ENV/
+.venv/
+
+# ==========================================================
+# Django
+# ==========================================================
+*.log
+db.sqlite3
+db.sqlite3-journal
+
+# Local settings overrides
+local_settings.py
+
+# ==========================================================
+# Environment Variables & Secrets
+# ==========================================================
+.env
+.env.*
+!.env.example
+!.env.production.example
+!.env.staging.example
+
+# Secret files
+secrets/
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+
+# Django secret dumps
+secret_key.txt
+
+# ==========================================================
+# PostgreSQL
+# ==========================================================
+postgres_data/
+pgdata/
+*.sql
+*.dump
+*.backup
+
+# ==========================================================
+# Redis
+# ==========================================================
+redis_data/
+dump.rdb
+appendonly.aof
+
+# ==========================================================
+# Celery
+# ==========================================================
+celerybeat-schedule
+celerybeat.pid
+
+# Celery logs
+celery*.log
+
+# ==========================================================
+# Docker
+# ==========================================================
+# Local Docker overrides
+docker-compose.yml
+docker-compose.dev.yml
+docker-compose.prod.yml
+
+# Docker volumes
+docker-volumes/
+volumes/
+
+# Build artifacts
+*.tar
+*.tar.gz
+
+# ==========================================================
+# Testing / Coverage
+# ==========================================================
+.pytest_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+.cache/
+
+# Tox / Nox
+.tox/
+.nox/
+
+# ==========================================================
+# Type Checking
+# ==========================================================
+.mypy_cache/
+.pyre/
+.pytype/
+
+# ==========================================================
+# Linting
+# ==========================================================
+.ruff_cache/
+
+# ==========================================================
+# Jupyter
+# ==========================================================
+.ipynb_checkpoints/
+
+# ==========================================================
+# IDEs
+# ==========================================================
+.vscode/
+.idea/
+*.iml
+
+# ==========================================================
+# OS Files
+# ==========================================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================================================
+# Logs
+# ==========================================================
+logs/
+log/
+*.log
+
+# ==========================================================
+# Temporary Files
+# ==========================================================
+tmp/
+temp/
+*.tmp
+*.swp
+*.swo
+*~
+
+# ==========================================================
+# Node.js (if using React/Vue build pipeline)
+# ==========================================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Frontend build artifacts
+dist/
+.next/
+.nuxt/
+coverage/
+
+# ==========================================================
+# Documentation
+# ==========================================================
+docs/_build/
+
+# ==========================================================
+# Kubernetes (local generated files)
+# ==========================================================
+*.kubeconfig
+
+# ==========================================================
+# Terraform (if used)
+# ==========================================================
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+override.tf
+override.tf.json
+
+# ==========================================================
+# Keep Django migrations in Git
+# ==========================================================
+# DO NOT IGNORE MIGRATIONS
+# Migrations are part of application state.
+
+# Collected static files
+staticfiles/
+static/
+chroma_db/
+
+
+# User uploaded media
+media/
+
+# Specific file
+*.gguf

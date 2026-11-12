@@ -1,0 +1,622 @@
+===
+title: Academic Offences Procedures
+version: 2025-2026
+authors: Student Progress Manager, University of Essex
+publication_date: 1 October 2025
+amended: 1 July 2025
+review_date: 5 June 2026
+file_name: academic-offences-procedure.pdf
+url: https://www.essex.ac.uk/-/media/documents/about/governance/academic-offences-procedure.pdf
+===
+
+# 1. Academic Offences & General Information
+
+## 1.1. General Information
+
+The University, the Students’ Union and the University’s Partner Institutions expect all students:
+
+- To behave with honesty and integrity in relation to coursework, examinations and other assessed work
+- To be familiar and act in accordance with the conventions of academic writing including appropriate referencing of sources and acknowledgement of assistance
+- To show understanding of ethical considerations and be compliant with the relevant University Procedures
+- A student who does not comply with any of these requirements (either intentionally or by negligence) may be charged with having committed an academic offence
+
+## 1.2. Academic Offences
+
+The following are some examples of academic offences and do not constitute an exhaustive list:
+
+### Plagiarism
+
+Using or copying someone else's work (whether written, printed, or in any other form) without proper acknowledgment in any assignment, examination, or other assessed work.
+
+Example: Copying a paragraph from a book without citing the original author.
+
+### Self-Plagiarism
+
+Reusing or copying your own work that has already been submitted for assessment, either at this University or elsewhere, without proper acknowledgment, unless explicitly allowed.
+
+Example: Reusing parts of a previous assignment without acknowledging the original source.
+
+### False Authorship or Contract Cheating
+
+Hiring someone else or using artificial intelligence, machine learning, or other automated technology to create written material that you then submit as your own original work.
+
+Example: Paying a service to write an essay and submitting it as your own work.
+
+### Collusion
+
+Submitting work that was produced collaboratively for individual assessment, unless this is explicitly permitted and acknowledged.
+
+Example: Two students shared answers during an online test, violating exam rules.
+
+### Falsifying Data or Evidence
+
+Fabricating or altering data or evidence in any academic work.
+
+Example: Fabricating survey results to support a hypothesis in a research paper.
+
+### Unethical Academic Practice
+
+Conducting research without obtaining necessary ethical approval from the University or using confidential information without authorisation.
+
+Example: Failing to obtain ethical approval ahead of conducting primary research.
+
+### Unauthorised Materials in Exams
+
+Bringing or attempting to bring any unauthorised written, printed, or electronic information into an exam, unless explicitly permitted by the exam instructions.
+
+Example: Bringing an answer sheet into an exam where no outside materials are allowed.
+
+### Copying in Exams
+
+Copying or attempting to copy another candidate's work during an exam.
+
+Example: Looking at another student's paper and copying their answers during an exam.
+
+### Unauthorised Communication in Exams
+
+Communicating or attempting to communicate with anyone other than an invigilator during an exam.
+
+Example: Asking classmate for answers during an exam.
+
+### Accessing Exam Materials Early
+
+Trying to access exam materials (like an exam paper) before they are officially released, unless formally permitted by the University.
+
+Example: Accessing an exam paper before it is officially released by the University.
+
+## 1.3. Assisting Another Student
+
+A student suspected of helping another student commit an academic offence may be investigated and dealt with in accordance with the University’s Code of Student Conduct. Action may also be taken against maliciously false allegations of academic offences.
+
+## 1.4. Formative Assessments
+
+These procedures do not apply for assessment that is undertaken for formative purposes only.
+
+## 1.5. Visiting Students
+
+These procedures do not apply to any student that is regarded as a visitor to the University of Essex (ie a student registered with a separate Higher Education Institute whose studies are not validated or formally assessed, entirely or in part, by the University of Essex). In such circumstances, the matter will be reported to the individual’s home institution.
+
+### Annual reporting
+
+1.6 A report of the number of academic offence cases and appeals formally administered under these procedures at the University of Essex and its Partner Institutions will be submitted annually to Senate and appropriate sub-committees.
+
+## Support and Guidance
+
+### 1.7. Academic Practice Training
+
+All students will receive mandatory training on academic practice during their induction week. Additionally, refresher sessions will be held at the beginning of each academic year. These sessions will cover; academic writing standards, ethical research practices, how to reference correctly and the consequences of committing an academic offence.
+
+### 1.8. Student Support Services
+
+Support and guidance is available to students studying at the University of Essex via the Student Services Hub, or independently from SU Advice. Students studying at a partner institution should seek support and guidance from their education provider.
+
+### 1.9. Reasonable Adjustments
+
+Students may request reasonable adjustments to these procedures in line with the rights that students retain under the Equality Act 2010. Requests will be considered individually, and students will be notified of the adjustments that have been agreed to in writing and at the earliest opportunity.
+
+### 1.10. Key Support Contact Details:
+
+Student Services Hub
+
+Email:
+askthehub@essex.ac.uk
+
+Phone:
+01206 874000
+
+Purpose:
+General student support
+
+---
+
+SU Advice
+
+Email:
+suadvice@essex.ac.uk
+
+Phone:
+01206 863211
+
+Purpose:
+Independent advice
+
+## Definitions of Terminology
+
+### 1.10. Examination
+
+An examination is to be defined as any assessment under controlled conditions. In the Procedure the term ‘formal examination’ refers to a centrally timetabled exam
+
+### 1.11. Unit of Assessment
+
+A unit of assessment is to be defined as any element of a taught module which contributes to a final module mark.
+
+### 1.12. Postgraduate Taught Dissertation
+
+A postgraduate taught dissertation is extended to include any equivalent assessment, as confirmed in the Credit Framework for Taught Postgraduate Courses.
+
+---
+
+# 2. Investigating an Academic Offence
+
+## Reporting an Academic Offence
+
+### 2.1. Initiating the Academic Offences Procedures
+
+Departments and Partner Institutions may initiate the Academic Offences Procedures at any point that the integrity of a student’s work is called into question, including when a concern is raised by (but not limited to):
+
+- the individual(s) marking a student’s submission for assessment
+- an external examiner in reviewing a student’s submission for assessment
+- the invigilator(s) of an examination
+- a student or non-member of the University
+- a plagiarism checking tool
+
+### 2.2. Reporting a Suspected Academic Offence
+
+Any students or non-members of the University wishing to raise a concern about a suspected academic offence(s) should submit their concerns to the relevant Department, Partner Institution or the Student Progress Team. A named record will likely be kept of the concern being raised and may be submitted as evidence. Anonymous allegations will not normally be acted upon.
+
+## Investigating an Academic Offence
+
+### 2.3. Investigation process
+
+All Academic Offence allegations are subject to formal investigations that are conducted by approved Adjudicators and Academic Offence Committees who are required to follow these procedures. Adjudicators are approved on behalf of Senate by the Executive Dean (or Deputy) of the appropriate Faculty or the Dean of Partnerships (or Deputy), and are required to attend a briefing on the Academic Offences Procedures before they can undertake this role. The type of Adjudicator that will consider the case will depend on the severity of the allegation, and the range of penalties that are available to the Adjudicator.
+
+### 2.4. Roles and Responsibilities
+
+Adjudicators may not investigate any allegations which they are directly involved in the teaching, assessment or supervision of. In such cases, the matter should be referred to an alternative Adjudicator within the Department, School or Partner Institution. A student may submit a request that a case is escalated to a Faculty Adjudicator or Academic Offences Committee prior to any investigative meeting taking place.
+
+### 2.5. Departmental Adjudicator
+
+Departmental Adjudicators are responsible for the initial investigation of all alleged academic offences within the Department, School or Partner Institution, except for allegations relating to formal examinations. Departmental Adjudicators are able to apply a fixed range of penalties for undergraduate and postgraduate taught students, as stated in Section 5 of these procedures, or refer the matter to a Faculty Adjudicator.
+
+### 2.6. Faculty Adjudicator
+
+Faculty Adjudicators are responsible for considering cases that have been referred to the Faculty by the Departmental Adjudicator, cases relating to formal examinations. Faculty Adjudicators are able to apply a fixed range of penalties for all students, as stated in Section 5 and 6 of these procedures, or refer the matter to an Academic Offences Committee.
+
+2.7. ### Academic Offences Committee
+
+Academic Offences Committees are responsible for considering cases that have been referred by the Faculty Adjudicator and are able to apply the full range of penalties for all current and former students, as stated in Section 5 and 6 of these procedures.
+
+2.8. ### Student notification requirements
+
+Adjudicators and Academic Offences Committees are required to:
+a) provide written notification to the student that an allegation is being formally investigated, with confirmation of the unit of assessment or submission that is being investigated
+b) check for any previous academic offences before making a final decision
+c) consider whether the allegation is in breach of the Code of Student Conduct
+d) ensure that an appropriate record of how the concern was raised and how the allegation was investigated is kept
+e) provide each student an opportunity to respond to the allegation (see Section 3)
+f) provide written confirmation to the student, the Department and the Student Progress Team of the decision made. The written confirmation will include a summary of the allegation, a summary of the student’s response and the reasons for the decision, as well as a notification of the student’s right of appeal
+g) notify the relevant offices and stakeholders within the University (and Partner Institution) of the final decision
+
+### 2.9. Decision-making requirements
+
+Where the alleged offence involves an alleged breach of the University’s Code of Student Conduct, the Departmental Adjudicator must first consult with the Student Progress Team before proceeding with the investigation. The Student Progress Team will consider how best to proceed on a case by case basis and advise the Adjudicator accordingly.
+
+### 2.10. Confidentiality
+
+Investigations into academic offences at the University of Essex will be conducted confidentially. Only authorised members of staff will be able to access case details and communications will be secure. Meetings will be private, and outcomes communicated discreetly, ensuring privacy and integrity throughout the process.
+
+## Timeframes
+
+### 2.11. Standard Investigation and Decision Timeframes
+
+Departmental Adjudicators will endeavour to complete their investigation within 20 working days of becoming aware of the allegation, whilst Faculty Adjudicators and Academic Offence Committees will endeavour to reach a final decision within 20 working days of receiving the referral. During this time, the student must meet any deadlines set. If a student enters a period of intermission, then the Academic Offence procedures will normally proceed within the standard timeframes, except in exceptional circumstances.
+
+### 2.12. Extensions to Investigation Timeframes
+
+Occasionally there will be circumstances when, for good reason, the University will need to extend the timeframe. Where this is the case, the student will be notified and kept regularly informed of progress. While every effort will be made to comply with the time limits set out above, if a time limit is exceeded, it shall not invalidate the outcome of the academic offence proceedings.
+
+## Gathering Evidence
+
+### 2.12 Use of Plagiarism Detection Tools
+
+The University reserves the right to use plagiarism detection facilities and services in checking students’ work for plagiarism.
+
+### 2.13 Evidence Used in Academic Offence Investigations
+
+Examples of suitable evidence include, but are not limited to, the use of plagiarism detection software, obtaining and annotating allegedly plagiarised material, inspecting material taken into an examination without authorisation, and reviewing the student’s notes and drafts. Witness statements may be considered as evidence, but may be disregarded if the witness is not prepared to be named. For allegations relating to false authorship, misuse of machine learning, artificial intelligence or other automated technology, contract cheating or plagiarism, the student may be questioned about the content of the assignment and their submission may be compared with work that they have previously submitted in order to establish the student as the author.
+
+### 2.14 Subject Expert Support During Student Questioning
+
+Where a student is questioned about the content of their submission, a member of staff with relevant knowledge of the subject area and/or assignment, such as the module lead, may attend a meeting to support the Adjudicator or Committee in questioning the student on the assessment topic and they may comment on the quality of the student’s responses. They should not propose or comment on any penalty that might be imposed.
+
+### 2.15 Attendance of Witnesses at Academic Offence Meetings
+
+Academic Offences Committees and Adjudicators may approve witnesses to be in attendance at a meeting in exceptional cases only, and must provide a clear rationale for doing so when notifying the student. Witnesses will only be expected to provide a statement and answer any questions put to them by the Adjudicator, Committee or the student. The witness will not be permitted to direct any questions to the student directly.
+
+# Additional Investigative Responsibilities
+
+## Undergraduate and Postgraduate Taught Students
+
+### 2.16 Departmental Responsibility for Coursework Allegations
+
+The Departmental Adjudicator is responsible for the investigation of alleged academic offences relating to coursework submitted by any student undertaking a module in their department. Where a student is charged with committing an offence on a module which is not run by a Department, School or Centre, the Department responsible for the student’s degree programme shall investigate the allegation.
+
+### 2.17 Referral of Examination Allegations
+
+All allegations relating to formal examinations will be referred directly to the Faculty Adjudicator and the Exam Invigilator(s) will normally be required to provide a report of the incident that is said to have occurred.
+
+### 2.18 Restrictions on Dissertation Penalties
+
+Adjudicators are restricted in the range of penalties available for allegations made against a postgraduate taught dissertation, as per Section 5 of the procedures.
+
+## Postgraduate Research students
+
+### 2.19 Postgraduate Research Student Academic Misconduct Investigations
+
+Allegations of Academic Misconduct made against a Postgraduate Research Student will be investigated and considered in accordance with the Procedure for the Investigation of Allegations of Research Misconduct in Postgraduate Research.
+
+### 2.20 Research Students Undertaking Taught Assessments
+
+For research students where the form of assessment is more akin to taught assessment (as determined by the Faculty Dean (Postgraduate)), the Faculty Dean may, as an initial action, apply instead the procedures applicable for Postgraduate Taught students under the Academic Offences Procedure (this Procedure), including the range of penalties that may be applied.
+
+## Postgraduate Certificate in Higher Education Practice
+
+### 2.21 Academic Offences Involving Postgraduate Certificate in Higher Education Practice Students
+
+For allegations made against students studying towards a Postgraduate Certificate in Higher Education Practice, a Faculty Adjudicator will take on the investigative duties of the Departmental Adjudicator in conducting the initial investigation and adjudicating the case. The Adjudicator will be restricted to the penalties available to a Departmental Adjudicator as outlined in Section 5 of the procedures. Should the offence be deemed to be more serious, the matter should be referred directly to an Academic Offences Committee, for which an alternative Faculty Adjudicator will be appointed as Chair and the initial Faculty Adjudicator will take on the role of the Departmental Representative.
+
+## Additional Procedural Requirements: Former Students
+
+### 2.22. Applying Procedures to Former Students
+
+Where an allegation is made against a person that is no longer a student of the University, University policies and procedures should be followed as if the individual were a student, including the range of penalties available. However, if the individual has received a validated award from the University, then the allegation should be referred directly to an Academic Offences Committee. The Pro-Vice Chancellor (Education) may also approve any amendments to the procedures that are deemed appropriate. In such circumstances, the individual must be informed of the amendments and the reasons why the amendments have been agreed to.
+
+### 2.23. Rights of Former Students
+
+The former student will retain all rights afforded to students in these procedures, including due notification of the allegation, access to evidence and documentation, the right to representation by a member of the University or Students’ Union and the right to appeal.
+
+### 2.24. Penalties and award reconsideration
+
+The Academic Offence Committee will make use of the standard range of penalties given in these procedures. Should a penalty be applied, the relevant Progress Procedures and/or Rules of Assessment will be followed in order to reconsider the award previously conferred. The Pro-Vice Chancellor (Education) must be consulted before rescinding an award.
+
+### 2.25. Resubmission and reassessment
+
+Should an Academic Offences Committee or Board of Examiners provide the opportunity to resubmit work or undertake reassessment and the former student declines to do so, a mark of zero will be replace the mark previously awarded.
+
+---
+
+# 3. Right to Reply
+
+## 3.1. Student Right to Respond
+
+A student has the right to reply to any allegation and must be given the opportunity to meet with the relevant Adjudicator or Academic Offences Committee, before a final decision about the allegation is made.
+
+## 3.2. Meeting Requirements
+
+For clarity, a penalty cannot be decided upon by an Adjudicator or Academic Offences Committee unless a meeting has been scheduled and due notice has been given, but cases may be referred to the Faculty or to an Academic Offences Committee without scheduling a meeting with the student.
+
+## 3.3. Meeting Arrangements
+
+In holding a meeting, the Adjudicator or Academic Offences Committee will normally:
+a) give the student notice of the meeting and access to any relevant evidence at least five working days in advance
+b) arrange the meeting at a time that does not clash with teaching events or examinations that the student is scheduled to attend
+c) not rearrange meetings if the above conditions have been met
+d) provide the student with a clear explanation of the allegation
+e) ensure the student is granted the opportunity to present their response to the allegation, including any extenuating circumstances
+f) Inform the student in advance if the meeting will involve viv-style questioning.
+
+## 3.4. Receiving Notice of a Meeting
+
+Upon receiving notice of a meeting, the student may choose to:
+a) attend the meeting, and may be accompanied to the meeting by a fellow student, a member of staff, the Students’ Union or a representative of SU Advice. Student attendance at meetings is strongly advised. Where a meeting will include viva-style questioning the student should make every effort to attend to discuss their work. The student may not normally bring anyone to the meeting that is not a member of the University unless this has been agreed as a reasonable adjustment under the Equality Act 2010
+b) submit a written statement and any evidence, instead of attending the meeting. All written statements should be provided ahead of the scheduled date and time of the meeting
+c) The case will be considered in the student’s absence, if they fail to respond to the allegation and appropriate notice of the meeting was provided
+
+## 3.5. Responding to Allegation
+
+In responding to the allegation, the student will be asked to:
+a) confirm whether they admit or deny the allegation
+b) notify the Adjudicator or Academic Offences Committee of any extenuating circumstances that may be relevant to the case
+c) Provide any evidence that is deemed relevant to the case
+
+## 3.6. Group Allegations
+
+In some instances, such as allegations relating to collusion or group submissions, it may be necessary and appropriate for the Adjudicator or Academic Offences Committee to see more than one student at a time.
+
+## 3.7. Disclosure of Additional Offences
+
+If an allegation of an academic offence has been proven, the student will be invited to disclose any further cases which they wish to be taken into consideration as part of the same offence. Students are warned that all undisclosed offences which come to light will be treated as subsequent offences, potentially carrying heavier penalties.
+
+## 3.8. Meeting Administration and Records
+
+All meetings conducted by Faculty Adjudicators and meetings of the Academic Offences Committee will be serviced by a Secretary, acting on behalf of the Academic Registrar. The Secretary of the Committee will notify the student in writing of the time and place in which the case will be heard. During the meeting, the Secretary will take notes, taking particular care to record the reasons for the decision and the deliberation concerning the imposition of any penalty
+and the alternatives from the set of possible penalties that were considered.
+
+## 3.9. Academic Offences Committee Composition
+
+Academic Offences Committees shall consist of a Faculty Adjudicator in the chair, and two members of staff from outside of the student’s department approved by the Executive Dean or their Deputy, and who have no connection with the case in question. If the Faculty Adjudicator has previously made a judgement relating to the allegation in question, then another Faculty Adjudicator must chair the Committee.
+
+## 3.10. Student Right to Representation
+
+The student has the right to be accompanied by a representative, and the committee meeting will follow a structured process where the evidence is presented, the student can respond, and the panel can ask questions (see 3.12).
+
+## 3.11. Student Representation at Academic Offence Meetings
+
+The student representative can be a fellow student, a member of staff, or a representative from the Student Union Advice team. In cases where reasonable adjustments are required under the Equality Act 2010, the student may request for a representative who is not a member of the University by submitting a Third Party Representation Request form.
+
+## 3.12. Departmental Representative at Academic Offence Meetings
+
+A representative of the Department in which the alleged offence has occurred (normally the Departmental Adjudicator) will attend the meeting of the Committee to set out evidence relating to the alleged offence. The Departmental Representative should not present any extenuating circumstances on behalf of the student unless they relate to the Department’s procedures or teaching. The Departmental Representative is not a member of the Committee should not propose or comment on any penalty that might be imposed, and is not permitted to ask questions of the student during the meeting except through the Chair.
+
+## 3.13. Invited Staff Member at Academic Offence Meetings
+
+With the permission of the Chair, a member of staff with relevant knowledge may attend to support the Committee in questioning the student to establish their understanding of the assessment topic and to assess the quality of the student’s responses. They are not a member of the Committee and should not propose or comment on any penalty that might be imposed.
+
+## 3.14. Decision-Making Process
+
+Only members of the Committee and the Secretary shall be present while the Committee is reaching a decision. The student is entitled to be present at all times that the Departmental Representative and/or invited staff member are in attendance at the meeting.
+
+## 3.15. Academic Offences Hearing Procedure
+
+The order of proceedings for an Academic Offences Committee will normally be as follows:
+a) The members of the Committee have a preliminary discussion without the student, the student’s representative or the Departmental Representative being present
+b) The student, the student’s representative and the Departmental Representative enter the room and the Chair introduces all those present c)
+c)The Chair checks that the student has received details of the case and any supporting documentation
+d) The Chair explains the order of proceedings to the student
+e) The evidence relating to the alleged offence is then presented by the Departmental Representative, and members of the Committee, the student and the student’s representative are invited to put questions to the Departmental Representative
+f) The Chair then invites the student to put forward a case orally if they wish to do so including any extenuating circumstances or other mitigation, and members of the committee are invited to put questions to the student
+g) If appropriate, and with the permission of the Chair, the Departmental Representative or member of staff with relevant knowledge may ask questions of the student about the content their submitted assignment.
+h) The Chair invites the student’s representative to put forward any additional statement
+i) The Chair invites the student to make any final response
+j) The student, the student’s representative and the Departmental Representative are then asked to leave the room
+k) The Committee then deliberates and comes to a decision as to whether an offence has been committed
+l) The Committee then determines the appropriate penalty from the set of penalties available to it, clarifying the reasons for the choice of penalty
+m) The student and the student’s representative are then recalled to the room to be told the decision as to whether the alleged offence is confirmed and, if so, the penalty and the reasons why this is the appropriate penalty. The Departmental Representative may be present during this final stage
+
+## 3.16. Adjourned Hearings
+
+The Committee may choose to adjourn in order to enable the student or the student’s representative to be present, or where this is necessary to obtain further information. The Committee shall meet to consider an adjourned case at the earliest opportunity and the student should be kept informed of the progress of the case. If necessary, the Executive Dean, or the appropriate Faculty Dean of the relevant Faculty, may co-opt additional members to replace any member not able to attend the reconvened meeting, including a new chair. If there are two new members, the reconvened meeting shall proceed as a new hearing. If there is one new member, the student may request that the meeting proceed as a new hearing.
+
+---
+
+# 4. Determining an academic offence and applying a penalty
+
+## 4.1. Determining Whether an Academic Offence Has Occurred
+
+Adjudicators and Academic Offences Committee are expected to determine whether an academic offence has been proven, before deciding which penalty to apply. Where a professional body (or similar) may be concerned with the intentionality of the offence, a judgement has to made as to whether the offence was intentional or not.
+
+## 4.2. Standard of Proof
+
+The standard of proof shall be based on the balance of probabilities, this means that the decision is made by determining whether it is more likely than not that an academic offence has taken place.
+
+## 4.3. Strict Liability and Consideration of Intent
+
+The University applies the principle of strict liability to academic offences, meaning that a student's intentions are not relevant to whether or not they have committed the offence. However, intent may be considered when determining the appropriate penalty.
+
+## 4.4. Dismissing an Academic Offence Allegation
+
+Any allegation can be dismissed before or after a meeting with the student has been held. The Departmental Adjudicator may determine that no offence has been committed at any point of their investigation, but not after a case has been referred to the Faculty. The Faculty Adjudicator may determine that no offence has been committed at any point after a case has been referred to them by the Department, but not after the case has been referred to an Academic Offences Committee. In all cases where formal proceedings have begun, such a decision should be confirmed to the student in writing and noted on the student’s record.
+
+## 4.5. Factors Considered When Applying a Penalty
+
+The University of Essex is committed to ensuring that all academic offence investigations are conducted with proportionality and fairness. In determining an appropriate penalty, the Adjudicator or Academic Offences Committee will take the following into account:
+a) the severity of the offence
+b) consideration of intent
+c) any previous offences and penalties
+d) any extenuating circumstances
+e) how co-operative the student has been with the investigation and procedures
+f) consistency in application of penalties from previous similar cases
+
+## 4.6. Student Marks and Penalty Decisions
+
+The Adjudicator or Academic Offences Committee should not take a student’s array of marks into consideration when allocating a penalty.
+
+## 4.7. Multiple Academic Offences Considered Together
+
+When more than one offence is considered at the same time the offences will normally all be considered as a first offence if the student has not previously been found guilty of an academic offence. A subsequent offence may occur from the point at which a student is found guilty of a first offence.
+
+## 4.8. Applying a Penalty and Academic Integrity Tutorial
+
+If an academic offence is proven, the Adjudicator or Academic Offences Committee shall apply a penalty and may, in addition, require the student to complete an Academic Integrity Tutorial, attendance at which will be considered compulsory. Attendance at an Academic Integrity Tutorial cannot replace a penalty. Failure to attend the Academic Integrity Tutorial will be noted should the student commit any subsequent offences and shall not be considered as a valid claim of mitigation, unless exceptional extenuating circumstances have prevented the student from attending.
+
+---
+
+# 5. Penalties for Undergraduate and Postgraduate Taught students
+
+## 5.1. Penalties Available to Departmental Adjudicators, Faculty Adjudicators, and Academic Offences Committees
+
+The following penalties may be applied by Departmental Adjudicators, Faculty Adjudicators and Academic Offences Committees:
+- Penalty 1: A formal written warning only
+- Penalty 2: Resubmit unit of assessment with minor amendments only, as determined by the Adjudicator (such as correct referencing, paraphrasing or striking out), for an uncapped mark
+- Penalty 3b: Resubmit the dissertation for a capped mark with amendments as determined by the Adjudicator, such as amendment of specific sections, correct referencing, paraphrasing or striking out) This penalty can only be applied to Postgraduate Taught dissertations
+- Penalty 4: Mark of zero to be given for the unit of assessment, reassessment available to the Board of Examiners
+
+## 5.2. Penalty Available Only to Faculty Adjudicators and Academic Offences Committees
+
+The following penalty may be applied by Faculty Adjudicators and Academic Offences Committees:
+- Penalty 5: Mark of zero to be given for the unit of assessment, with no resubmission or reassessment permitted. No previous mark for the unit of assessment will be reinstated
+
+## 5.3. Penalties Available Only to Academic Offences Committees
+
+The following penalties may be applied by Academic Offences Committees only:
+- Penalty 6: Mark of zero to be awarded for the module, with no resubmission or reassessment permitted. No previous mark for the module will be reinstated. No previous mark for the module will be reinstated
+- Penalty 7: No longer eligible for full award: Mark of zero to be awarded for the module with no resubmission or reassessment permitted. No previous mark for the module will be reinstated. The student may complete currently enrolled credits for an exit award only but excluding an Ordinary Degree
+- Penalty 8: Required to withdraw immediately and no longer eligible for full award: A mark of zero to be awarded for the module no resubmission or reassessment permitted. No previous mark for the module will be reinstated. The Examination Board to be invited to consider the student only for an exit award, but excluding an Ordinary Degree, on the basis of credits already achieved
+- Penalty 9: Required to withdraw immediately with no qualification awarded: A mark of zero to be awarded for the module no resubmission or reassessment permitted and the Examination Board to be invited to ratify credits that have already been achieved for recording purposes
+
+## 5.4. Restrictions on Dissertation Penalties
+
+Departmental Adjudicators and Faculty Adjudicators may not apply Penalty 4 or Penalty 5 for offences that have occurred in a postgraduate taught dissertation.
+
+## 5.5. Failure to Gain Ethical Approval
+
+In cases where the offence is failure to gain ethical approval, an Adjudicator or Academic Offences Committee can exercise discretion to impose a penalty 2, 3a or 3b where there is evidence that there were irregularities in support and/or supervision, or that student has been misadvised.
+
+---
+
+# 6. Implications of an Academic Offence
+
+## 6.1. Potential Consequences of an Academic Offence
+
+An academic offence may lead to a student:
+- being prevented from continuing their studies, either as a direct result of a penalty, or by the further application of the rules of assessment after a penalty has been applied
+- being prevented from studying abroad under the Study Abroad Scheme
+- being prevented from completing a work placement as part of their course
+- being prevented from receiving accreditation from a Professional Body
+- having their scholarship terminated by the Executive Dean (or their Deputy) of the relevant Faculty
+- being subject to the Fitness to Practise Procedure (applicable for students on a relevant course of study only)
+- on each occasion, the student will be notified separately as part of the relevant process or procedure
+
+## 6.2. Recording Academic Offence Information
+
+All information relating to suspected academic offences and their outcomes will be recorded on the academic offences database and in the student’s file.
+
+## 6.3. Academic Transcripts and Disclosure to Third Parties
+
+Academic Offences are not explicitly recorded on academic transcripts or the Higher Education Achievement Record. However details of an academic offence, such as the nature of the offence and the penalty applied, may be passed on to third parties as deemed appropriate, such as professional accreditors, placement providers, educational sponsors (including embassies) and organisations approved by the student in order to provide a professional or character reference.
+
+## 6.4. Sharing Academic Offence Information Within the University
+
+Details of the allegation (including evidence presented by the student’s Department) may be passed on to other University services if deemed appropriate, such as the Student Progress Team, or a Professional Suitability Group. On such occasions, students will be notified and informed of the reason why.
+
+## 6.5. Academic offences and the Undergraduate and Postgraduate Taught Rules of Assessment
+
+A Board of Examiners may not overturn any decision on a penalty given in relation to an academic offence by a Departmental Adjudicator, a Faculty Adjudicator or an Academic Offences Committee.
+a) If a student submits a claim of extenuating circumstances for the same module for which they have committed an academic offence, the Board of Examiners will have limited discretion on how to proceed and should act in accordance with the relevant guidance.
+b) The mark for any individual unit of assessment that has had an academic offence penalty applied (including a mark of zero) must be used in the calculation of the overall module aggregate.
+c) If a student would normally be able to complete reassessment prior to marks being ratified by the Board of Examiners (as a result of an approved variation to the Rules of Assessment), then a student with an academic offence may be offered reassessment before the Board of Examiners, if the penalty allows for it.
+d) Where a student has a penalised mark for work as a result of an academic offence, the penalty will not be carried forward if the student repeats the module in full, including after a period of intermission. However, the record of the offence is kept on the student’s record and the academic offences database and any further offences will be classified as subsequent offences.
+
+## 6.6. Resubmitted Work
+
+Where a student is entitled to resubmit work in order to make minor amendments only following an academic offence:
+- if the student does not take up the opportunity to resubmit the work by the given deadline, a mark of zero will be awarded for consideration by the Board of Examiners
+- no other changes may be made to the original submission except for the minor amendments as determined by the Adjudicator. Any unauthorised changes made to the assignment will be treated as a subsequent offence
+- if the student’s resubmitted coursework has not fully resolved the Department’s concerns regarding the academic offence, then the offending sections of the student’s resubmitted coursework will be struck out and only the non-offending text of the student’s assignment will be marked. Students are entitled to request an annotated copy of the assignment that has been submitted for marking
+
+---
+
+# 7. Academic offence appeals
+
+## Submitting an Appeal
+
+### 7.1. How to Submit an Appeal
+
+Students studying at the University of Essex may appeal by completing an Appeal Form, setting out the grounds for appeal and sending it with all supporting evidence to the Student Progress Team at the University of Essex. Students must do so within 10 working days that the outcome of the Academic Offence proceedings was confirmed in writing.
+
+### 7.2. Late Appeals
+
+Appeals received after the deadline will only be accepted at the discretion of the Academic Registrar (or nominee). For this to apply, the student must be able to show, to the satisfaction of the Academic Registrar (or nominee), that circumstances beyond the student’s control prevented them from meeting the standard time limit and that unfair treatment would result from not extending the deadline.
+
+## 7.3. Grounds for Appeal
+
+Students have the right of appeal against any finding or penalty of the Departmental Adjudicator, Faculty Adjudicator or Academic Offences Committee (hereafter referred to as ‘the Initial Adjudicator’) on one or more of the following grounds:
+a) there is new evidence, which for good reason was not previously available to the Initial Adjudicator, which might have materially affected the outcome
+b) the Initial Adjudicator did not follow the Academic Offences Procedures which disadvantaged the student’s case
+c) there is evidence of prejudice and/or bias during the procedures
+d) on the balance of probabilities, the facts of the case did not justify the decision that the student had committed an academic offence
+e) the penalty imposed by the Initial Adjudicator was unreasonable with regard to all the circumstances of the case
+
+## Academic Offence Appeal Procedures
+
+### 7.4. Acknowledgement of Appeal
+
+The Academic Registrar (or nominee) will acknowledge receipt of the appeal within five working days.
+
+### 7.5. Timeframe for Appeal Proceedings
+
+The University will endeavour to complete the appeal proceedings within 20 working days from receipt of the appeal form and supporting evidence. During this time, the student must meet all deadlines set. Occasionally there will be circumstances when, for good reason, the University will need to extend the timeframe. Where this is the case, the student will be notified and kept regularly informed of progress.
+
+### 7.6. Statement of the Case
+
+On receipt of an Appeal, the Initial Adjudicator whose decision the appeal is made against is asked to write a Statement of the Case which shall include:
+- the details of the charge(s) in respect of which the decision that was made 
+- a brief summary of the evidence and of the relevant findings
+- the decision, including the details of any penalty imposed
+- a brief comment as to the reason for such findings, decision and penalty
+- any further information that may be deemed to be relevant
+
+Where the Initial Adjudicator was an Academic Offences Committee, the Chair of the Committee will normally provide the statement.
+
+## 7.7. Appointment of the Appointed Dean
+
+An Executive Dean or their deputy who has no previous involvement with the case (hereafter the Appointed Dean) will be appointed to deal with the appeal.
+
+## Duties of the Appointed Dean
+
+### 7.8. Valid Grounds for Appeal
+
+The Appointed Dean shall consider whether or not the request discloses a valid ground for an appeal. Where it is agreed that the appeal does have valid grounds, the case shall be referred to an Academic Offences Appeals Committee.
+
+### 7.9. Dismissal of an Appeal
+
+Should the Appointed Dean decide to dismiss the appeal, the student will be sent a Completion of Procedures Letter.
+
+## Academic Offences Appeal Committee
+
+### 7.10 Composition and Procedures of the Academic Offences Appeal Committee
+
+The Academic Offences Appeal Committee will have the same authority, and be composed in the same way, as an Academic Offences Committee (see Section 3) but will operate with the following differences:
+a) the Appointed Dean chairs the Academic Offences Appeal Committee
+b) the Initial Adjudicator will normally attend the meeting of the Appeals Committee instead of the Departmental Representative, and, in regards to their role at the meeting, will be bound by the same requirements. The Initial Adjudicator is not a member of the committee. The Secretary shall be responsible for providing the Initial Adjudicator with the relevant documentation. Where the Initial Adjudicator is an Academic Offences Committee, a member of the Academic Offences Committee (normally the Chair) will normally undertake this role
+c) where a Committee has adjourned and it is necessary to co-opt additional members, these must be approved by the Appointed Dean or the Pro-Vice-Chancellor (Education)
+d) the student will not normally be given a further opportunity to disclose any further cases which they wish to be taken into consideration as part of the same offence
+
+## 7.11 Powers of the Academic Offences Appeal Committee
+
+An Academic Offences Appeal Committee shall have the power to:
+- rescind a resolution of the Initial Adjudicator that the student has committed an offence and rescind all consequential penalties
+- confirm a resolution of the Initial Adjudicator that the student has committed an academic offence confirm or amend (increasing or decreasing) the penalty allocated by the Initial Adjudicator, provided that any amendment is consistent with the powers of the original authority
+
+### 7.12 Conditions for Applying a More Serious Penalty
+ 
+An Academic Offences Appeal Committee can only apply a more serious penalty where evidence or information is provided by the student as part of the appeal, or where new evidence is submitted by the Department or Initial Adjudicator at the request of the Appeals Committee that indicates that the offence is more severe.
+
+### 7.13 Withdrawal of an Appeal
+
+The student may withdraw an appeal at any time before the meeting of the Committee.
+
+## Internal review
+
+### 7.14. Grounds for Internal Review
+
+Any request for internal review following the formal conclusion of the Academic Offences Appeal Committee may be made on the grounds of procedural irregularity only, specifically that the Committee departed from the prescribed procedures. If the student wishes to request an internal review against the outcome on the grounds of procedural irregularity, they should write to the Student Progress Team within 10 working days of the date of the Academic Offences Appeal Committee meeting. The request must set out in detail the evidence to support their claim that there were procedural irregularities in the process.
+
+### 7.15. Dismissal of an Internal Review
+
+Should the Pro-Vice-Chancellor (Education) (or nominee), decide that the request does not have valid grounds it will be dismissed and the student will be sent a Completion of Procedures letter.
+
+### 7.16. Referral to a New Appeal Committee
+
+If there is evidence to support the request then the case will be reviewed by the Pro-Vice-Chancellor (Education) (or nominee). If the Pro-Vice-Chancellor (Education) (or nominee), decides that there were procedural irregularities in the process then the case will be referred to a new Academic Offences Appeal Committee.
+
+## External review
+
+### 7.17. Office of the Independent Adjudicator (OIA)
+
+The Office of Independent Adjudicator for Higher Education (OIA) provides an independent scheme for the review of student complaints or appeals. When the University’s internal procedures for dealing with complaints and appeals have been completely exhausted, the University will issue a Completion of Procedures Letter.
+
+### 7.18. Completion of Procedures Letter
+
+Students will be issued with a Completion of Procedures letter when:
+a) the Appointed Dean has deemed the appeal to not have valid grounds
+b) the Pro-Vice-Chancellor (Education) or their nominee has dismissed the request for Internal Review.
+
+### 7.19. Requesting a Completion of Procedures Letter
+
+Students may also request a Completion of Procedures within 20 working days that the outcome of the Academic Offences Appeal Committee was confirmed in writing.
+
+### 7.20. Applying to the Office of Independent Adjudicator for Higher Education (OIA)
+
+Students wishing to avail themselves of the opportunity of an independent review by the OIA must submit their application to the OIA within 12 months of the issue of the Completion of Procedures letter. Full details of the scheme are available on request and will be enclosed with the Completion of Procedures letter.
+
