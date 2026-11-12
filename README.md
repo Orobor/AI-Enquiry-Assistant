@@ -32,10 +32,3 @@ This project demonstrates how Large Language Models (LLMs), combined with workfl
 
 It explores the potential of AI-powered assistants to make university policies easier to navigate, helping students and staff find relevant information quickly and conveniently.
 
-## Disclaimer
-
-This is a demonstration project and is not an official university service. AI-generated responses are intended for informational purposes only and should not be treated as formal institutional decisions or advice. Users should refer to official university policies and appropriate university departments for authoritative guidance.
-
-## Author
-
-**Ise Anderson Orobor**
