@@ -13,7 +13,7 @@ Example enquiries include:
 - Can a former student be investigated?
 
 ## Technologies Used
-- **React** – Frontend development framework.
+- **React & Bootstrap 5** – Frontend development.
 - **Python & Django** – Backend development and application framework.
 - **PostgreSQL** – Database management.
 - **LangGraph** – AI workflow orchestration and conversation management.
